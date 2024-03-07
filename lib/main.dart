@@ -85,6 +85,12 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                 ),
+                Center(
+                  child: Image.asset(
+                    "assets/traveling.png",
+                    height: 300,
+                  ),
+                ),
                 const SizedBox(
                   height: 20,
                 ),
